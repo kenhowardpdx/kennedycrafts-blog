@@ -1,0 +1,16 @@
+# Site settings
+title: "Kennedy Crafts"
+description: "Kennedy's Craft Blog"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kennedycrafts.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: redcarpet
+
+exclude: []
+
+permalink: /blog/:year/:month/:title
+
+owner_link: http://kennedycrafts.com
+
+domain: kennedycrafts.com
